@@ -36,6 +36,7 @@ addons:
       - libcurl4-openssl-dev
       - libelf-dev
       - libdw-dev
+      - libhttp-parser-dev
 env:
   global:
     secure: HlDs6Eyhy/67Wmqd6frmCnOMYQyqbv2ulL9qqqFF2zdlinJ2/Z0FDs+0GHNWu0BQ9v6+51KHbhieUaz3dTYDCKPlDiA2OmE8DQuXloxrrJfGmPLc1F+cKQGn5a5FrIrLJDkEpcfWXZItRtzSPkpVNEWGA66Osx50/Nd8lkdjFYA=
